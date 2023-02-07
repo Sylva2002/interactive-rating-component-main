@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor solution](https://www.frontendmentor.io/solutions/interactive-rating-component-in-htmlcssjs-ZRYSeifYaH)
+- Live Site URL: [Github page link](https://sylva2002.github.io/interactive-rating-component-main/)
 
 ## My process
 
